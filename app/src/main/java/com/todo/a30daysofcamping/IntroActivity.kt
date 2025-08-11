@@ -61,7 +61,7 @@ import androidx.compose.ui.unit.sp
 import com.todo.a30daysofcamping.ui.theme.AppTheme
 import java.nio.file.WatchEvent
 
-class IntroActivity : ComponentActivity() {
+class IntroActivity : BaseFullscreenActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
@@ -128,12 +128,12 @@ fun IntroPage(modifier: Modifier = Modifier) {
                         .padding(dimensionResource(R.dimen.padding_medium)),
                     textAlign = TextAlign.Center,
                     style = TextStyle(
-                        color = MaterialTheme.colorScheme.onPrimary,
+                        color = Color.White,
                         fontWeight = FontWeight.SemiBold,
                         lineHeight = 30.sp,
                         fontSize = MaterialTheme.typography.headlineSmall.fontSize,
                         shadow = Shadow(
-                            color = MaterialTheme.colorScheme.onSurface,
+                            color = Color.Black,
                             offset = Offset(3f, 3f),
                             blurRadius = 8f
                         )
@@ -148,12 +148,12 @@ fun IntroPage(modifier: Modifier = Modifier) {
                     modifier = Modifier
                         .fillMaxWidth()
                         .padding(all = dimensionResource(R.dimen.padding_xlarge)),
-                    border = BorderStroke(2.dp, MaterialTheme.colorScheme.onPrimary),
+                    border = BorderStroke(2.dp, Color.White),
                     colors = ButtonDefaults.outlinedButtonColors(containerColor = MaterialTheme.colorScheme.secondary)
                 ) {
                     Text(
                         text = "Begin your journey!",
-                        color = MaterialTheme.colorScheme.onPrimary,
+                        color = Color.White,
                         fontSize = MaterialTheme.typography.titleMedium.fontSize
                     )
                 }

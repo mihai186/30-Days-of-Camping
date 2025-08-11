@@ -1,0 +1,546 @@
+<resources>
+    <string name="app_name">30 Days of Camping</string>
+
+    <string name="imgDesc1">Why camping?</string>
+    <string name="imgDesc2">Backpack</string>
+    <string name="imgDesc3">Bear</string>
+    <string name="imgDesc4">First aid kit</string>
+    <string name="imgDesc5">Using hiking app</string>
+    <string name="imgDesc6">Sign - leave nothing behind</string>
+    <string name="imgDesc7">Planning trip</string>
+    <string name="imgDesc8">Hiking</string>
+
+    <string name="imgDesc9">Tent and other equipment</string>
+    <string name="imgDesc10">Making tent</string>
+    <string name="imgDesc11">Packing bag</string>
+    <string name="imgDesc12">Types of firewood</string>
+    <string name="imgDesc13">Campfire</string>
+    <string name="imgDesc14">Fire surrounded by stones</string>
+    <string name="imgDesc15">Outdoor grill</string>
+    <string name="imgDesc16">A campsite</string>
+    <string name="imgDesc17">Rescue helicopter</string>
+    <string name="imgDesc18">Splitting wood</string>
+    <string name="imgDesc19">Rope and knots</string>
+    <string name="imgDesc20">In tent POV</string>
+    <string name="imgDesc21">Hiker in forest</string>
+
+    <string name="imgDesc22">Backpack</string>
+    <string name="imgDesc23">Mushrooms in basket</string>
+    <string name="imgDesc24">Map and compass</string>
+    <string name="imgDesc25">Skillet on a campfire</string>
+    <string name="imgDesc26">Starting a fire</string>
+    <string name="imgDesc27">Drinking water</string>
+    <string name="imgDesc28">Using map and compass</string>
+    <string name="imgDesc29">Washing face in the river</string>
+    <string name="imgDesc30">Water and forest</string>
+
+
+    <string name="title1">Why go camping? The benefits</string>
+    <string name="title2">Essential gear for a day hike</string>
+    <string name="title3">Animals and how to react</string>
+    <string name="title4">Basic first aid</string>
+    <string name="title5">Offline maps and GPS apps</string>
+    <string name="title6">Leave No Trace</string>
+    <string name="title7">Plan your first hike</string>
+    <string name="title8">Go hiking!</string>
+
+    <string name="title9">Overnight gear essentials</string>
+    <string name="title10">Learn to pitch your tent</string>
+    <string name="title11">Packing efficiently</string>
+    <string name="title12">Types of firewood</string>
+    <string name="title13">Campfire building &amp; safety</string>
+    <string name="title14">Where to make a legal fire</string>
+    <string name="title15">Practice: Campfire cooking at home</string>
+    <string name="title16">Choosing your campsite</string>
+    <string name="title17">Emergency signals &amp; contacts</string>
+    <string name="title18">Practice: Cut &amp; prep firewood</string>
+    <string name="title19">Knots &amp; their uses</string>
+    <string name="title20">Plan &amp; go: Your first overnight camp!</string>
+    <string name="title21">Return &amp; reflect</string>
+
+    <string name="title22">Survival kit essentials</string>
+    <string name="title23">Edible sources in nature</string>
+    <string name="title24">Full navigation skills</string>
+    <string name="title25">Smart camp recipes</string>
+    <string name="title26">Fire in any weather</string>
+    <string name="title27">Water: filter, purify, stay clean</string>
+    <string name="title28">Real-life orientation drill</string>
+    <string name="title29">Hygiene &amp; comfort in rough conditions</string>
+    <string name="title30">Finding and planning around water</string>
+
+
+    <string name="description1">Discover what camping really means and why it\'s worth trying. You\'ll learn about the physical, mental, and emotional benefits of spending time in nature. This is the first step on your journey to becoming more prepared, more relaxed, and more connected to the wild.</string>
+    <string name="description2">Learn what you need to pack for a safe and comfortable hike: footwear, clothes, rain gear, food, water, and other essentials. The right gear can make your first hike much more enjoyable and safe.</string>
+    <string name="description3">Understand what to do if you encounter wildlife like bears, wolves, snakes, or insects. Knowing how to stay calm and respond properly is key to staying safe in nature.</string>
+    <string name="description4">Learn how to treat minor injuries like cuts, sprains, or bruises. Today you’ll put together a basic first aid kit and understand how to use it during emergencies.</string>
+    <string name="description5">Install a navigation app and learn how to save maps for offline use. You’ll also learn how to check your location using GPS — a skill that can keep you from getting lost.</string>
+    <string name="description6">Learn how to protect nature while camping: avoid leaving trash, damaging plants, or disturbing animals. The best campers leave the wilderness better than they found it.</string>
+    <string name="description7">Plan a short hiking route, choose your gear, estimate your hiking time, and prepare everything you need. This is your first full preparation for a real outdoor experience.</string>
+    <string name="description8">Today is action day. You’ll take your first real hike using the knowledge from Stage 1. Track your route, stay hydrated, and observe how it feels to carry your gear and move through nature. Enjoy the trail — it’s your training ground for real camping.</string>
+
+    <string name="description9">It’s time to level up your gear. Learn about the basic equipment for spending one night in nature: tent, sleeping bag, sleeping pad, tarp, flashlight, cooking tools, and hygiene items. You’ll also pack a compact, organized backpack for the night ahead.</string>
+    <string name="description10">Setting up a tent is easier than it looks — once you learn it step-by-step. Today you’ll watch a demo (or follow written instructions) and practice setting up your own tent. The goal is to be able to do it quickly and correctly in the field.</string>
+    <string name="description11">Today you’ll learn how to pack smart: compress sleeping bags, fold tarps, and organize gear by importance. An efficient backpack saves your energy and protects your gear. Test-packing everything is part of your pre-camp routine.</string>
+    <string name="description12">Not all wood burns the same. You’ll learn how to identify dry vs. wet wood, what types are good for starting a fire, and what burns long and hot. This knowledge will help you build reliable campfires in any weather.</string>
+    <string name="description13">You’ll go deeper into fire building: types of fires (teepee, log cabin, Dakota hole), how to place your fire safely, and what rules to follow. Fire can be powerful — it needs respect and control.</string>
+    <string name="description14">In many areas, open fires are not allowed. Today you’ll learn how to check fire regulations, use designated fire pits, and carry alternatives like a portable stove. Responsible fire-making starts with understanding the rules.</string>
+    <string name="description15">Don’t wait until you’re in the forest to practice. Today, build a small fire (or use a grill) and try cooking something basic with your camping tools. It’s a great way to build confidence before your first night outdoors.</string>
+    <string name="description16">A good campsite is safe, dry, flat, and protected. Learn how to evaluate a location before setting up camp — avoid valleys, slopes, animal trails, and dead trees. You’ll feel much more secure sleeping in the right spot.</string>
+    <string name="description17">Learn how to send SOS signals with light or sound, and which emergency numbers to save in your phone. In nature, communication is limited — so preparation is key.</string>
+    <string name="description18">Get hands-on: practice cutting a small log or branch with your saw or axe, make kindling, and build a fire from scratch. This is your final rehearsal before your full camping experience.</string>
+    <string name="description19">You’ll learn a few basic but very useful knots: bowline, taut-line hitch, and square knot. These will help you secure your tarp, hang a bear bag, or fix gear on the go. Practice makes perfect.</string>
+    <string name="description20">It’s time. Pack your gear, choose a simple route, set up camp, cook, sleep, and return the next day. This is your graduation test from beginner to camper.</string>
+    <string name="description21">You made it back! Take a moment to reflect: what worked well, what could improve, what gear you didn’t use, what you missed. This reflection will prepare you for even longer adventures ahead.</string>
+
+    <string name="description22">Level up your gear. Build a survival kit with a water filter, fire starter, map, and compass — tools for full independence. Lay it all out, weigh it, and feel how much self-reliance fits in your pack.</string>
+    <string name="description23">Nature can feed you — if you know where to look. Learn how to safely identify edible plants, fruits, and even insects. The goal today isn’t to eat, but to recognize what’s safe (and what’s not).</string>
+    <string name="description24">Time to navigate like the old explorers. Practice using your compass and a paper map to find your way, draw azimuths, and estimate distance. No signal, no problem — your brain is the GPS now.</string>
+    <string name="description25">Simple food doesn’t mean boring food. Learn how to mix basic ingredients into a full meal — soup with foraged extras, rice with canned protein, or wild herb tea. Tasty, fast, and energy-efficient.</string>
+    <string name="description26">Forget lighters. Learn to start a fire with flint or ferro rod — even in rain. Control your flames, cook something warm, and discover just how powerful (and calming) a campfire really is.</string>
+    <string name="description27">Not all water is safe — but you can make it drinkable. Practice filtering, purifying, and organizing clean vs. dirty supplies. Water is life, and today you learn to control it in the wild.</string>
+    <string name="description28">Grab your compass and map — it’s your first real orientation challenge. Plan a short hike and use only old-school tools to stay on track. It’s not about distance, it’s about direction.</string>
+    <string name="description29">When water is limited, hygiene becomes a skill. Learn how to clean up with 300ml or less, and how to stay dry and warm with technical clothes and smart layering. Comfort is survival.</string>
+    <string name="description30">Every trail needs water. Learn how to recognize where it flows: look for terrain dips, lush plants, or rocky outcrops. Then plan a route that brings you close to it — even if just on the map.</string>
+
+
+    <string name="fullDescription1">
+\tCamping is more than just pitching a tent and sleeping under the stars—it\'s a way to reconnect with nature, recharge your mind, and rediscover a slower, more intentional rhythm of life. In today\'s fast-paced, digitally saturated world, many people find themselves overwhelmed and disconnected. Camping offers a natural antidote: fresh air, quiet mornings, and the soothing sounds of the outdoors.\n\n
+\tThe physical benefits of camping are numerous. Even light activity such as hiking to your campsite or gathering firewood promotes movement and exercise. Breathing clean air and spending time in daylight also help regulate your sleep cycles and boost your immune system. Mentally, stepping away from screens and routines helps reduce stress, increase focus, and support mindfulness. Emotionally, the simplicity of camp life encourages presence and gratitude. Something as small as making your own meal outdoors or watching the stars can bring deep satisfaction.\n\n
+\tIn this first step of your journey, take time to reflect on why you’re here. Whether you’re looking for adventure, solitude, or self-reliance, camping has something to offer. It’s not about having all the right gear or knowing all the tricks—it\'s about showing up and being open to the experience. Over the next 30 days, you’ll learn how to plan, pack, build, and thrive in the wild. But for today, just breathe, look around, and let nature welcome you back.
+</string>
+    <string name="fullDescription2">
+\tHeading out on your first day hike? Great! But before you hit the trail, it\'s crucial to pack the right gear. Proper preparation ensures not only your comfort but also your safety in changing outdoor conditions.
+
+\n\n\tStart with your footwear. Avoid sneakers or casual shoes—they don’t offer enough grip or ankle support. Instead, opt for hiking boots or sturdy trail shoes that fit well and are broken in. Combine them with moisture-wicking socks to prevent blisters and keep your feet dry.
+
+\n\n\tYour clothing should be layered: a breathable base layer, an insulating mid-layer, and a waterproof outer shell. Weather can shift quickly, so a rain jacket or poncho is a must—even if the forecast looks clear. Add a hat for sun protection and gloves if it’s chilly.
+
+\tNext, choose a backpack that fits comfortably on your back and distributes weight evenly. Inside, pack food in sealable containers to reduce smells that might attract wildlife. Bring enough water for the entire hike—at least 2 liters per person. You should also carry a small first-aid kit, a whistle, a flashlight or headlamp, and sunscreen.
+
+\n\n\tFinally, if you\'re hiking in bear country, carry bear spray and know how to use it. It\'s not just about fear—it\'s about responsibility and awareness.
+
+\n\n\tToday’s goal is simple: assemble your gear. Lay everything out, test your backpack\'s weight, and go on a short practice walk if you can. This step lays the foundation for safe and confident hiking in the days to come.
+</string>
+    <string name="fullDescription3">
+\tEncounters with wildlife are rare—but knowing how to respond can make all the difference. Nature is not out to get you, but animals can become defensive or dangerous if they feel threatened or surprised. Your best defense is awareness, calm behavior, and knowledge.
+
+\n\n\tIf you see a **bear** at a distance, stop immediately. Do not run. Speak in a calm, firm voice and slowly back away, keeping the bear in sight without making direct eye contact. If the bear approaches, stand your ground. Use your bear spray if it\'s within range. If a bear charges, and it\'s a grizzly, play dead—lie flat, cover your neck. If it’s a black bear, try to appear larger, make noise, and fight back if attacked.
+
+\n\n\tWith **wolves**, stay calm and face them. Do not run or turn your back. Back away slowly while making yourself look bigger and making noise. Wolves rarely attack humans, especially during the day.
+
+\n\n\tFor **snake bites**, especially from venomous species, stay still to slow the spread of venom. Do not suck the poison, cut the wound, or apply a tourniquet. Call emergency services as soon as possible and keep the affected limb below heart level.
+
+\n\n\tIf you’re bitten or stung by an **insect**, clean the area and watch for signs of allergic reactions like swelling, dizziness, or difficulty breathing. Carrying antihistamines or an epinephrine auto-injector can be life-saving if you have known allergies.
+
+\n\n\tIn all cases, stay calm. Most wildlife wants to avoid you as much as you want to avoid them. Making noise while hiking, being alert, and respecting their space is usually enough to prevent any incident. Today, read up on the animals common to your area and mentally rehearse how you\'d respond. Preparedness creates confidence.
+</string>
+    <string name="fullDescription4">
+\tWhen you\'re out on a day hike, injuries are rare—but small accidents can still happen. A scraped knee, a blister from your boots, or a minor cut from brushing past a branch can quickly become a distraction. That’s why a small, lightweight first aid kit is worth its weight in peace of mind.
+
+\n\n\tYou don’t need a large medical bag. A few essentials are more than enough:
+\n- A handful of adhesive bandages (plasters) in different sizes
+\n- A small bottle or ampoule of disinfectant like Betadine or an alcohol-based wipe
+\n- A roll of sterile gauze or a large bandage in case of a bigger wound
+
+\n\n\tThat’s it. These few items can handle most of what you\'re likely to face on a short hike.
+
+\n\n\tIf you get a **cut**, clean it as soon as possible and cover it to prevent infection. If you develop a **blister**, protect it early with a plaster or gauze to avoid pain later. If someone twists an ankle or gets a deeper wound, the best course of action is usually to head back safely and seek help if needed.
+
+\n\n\tThe goal today is simple: put together a basic, compact first aid kit. It should fit in your backpack without adding weight or bulk. Once packed, forget about it—until the moment you’re glad it’s there.
+</string>
+    <string name="fullDescription5">
+\tGetting lost in the woods is easier than you think—and relying solely on your phone’s data signal can be risky. That’s why today’s goal is to prepare your phone for offline navigation and learn the basics of using GPS outdoors.
+
+\n\n\tStart by installing a navigation app that supports offline maps. Good options include Gaia GPS, AllTrails, Organic Maps, or Komoot. Choose one that fits your style—some are better for marked trails, others for remote backcountry hikes. Once installed, select your hiking area and download the map to your device. Make sure it includes the trails, topography, and even elevation lines if available.
+
+\n\n\tModern smartphones have built-in GPS chips that work even without cell signal. This means you can pinpoint your location on a saved offline map at any time—as long as your battery lasts. Knowing where you are, even without reception, can prevent hours of wandering.
+
+\n\n\tTo save battery life, keep your phone in airplane mode and adjust screen brightness. Always bring a power bank if your hike is longer than a few hours.
+
+\n\n\tToday, don’t just install the app—practice with it. Step outside, open the map, locate your position, and try marking a waypoint. This simple step can make the difference between confidence and confusion when you’re deep in the forest.
+
+\n\n\tNavigation isn\'t just for getting back—it\'s for going further, safely.
+</string>
+    <string name="fullDescription6">
+\tSpending time in nature is a privilege—and with that privilege comes responsibility. The Leave No Trace principles are a simple but powerful way to minimize your impact on the environment while hiking, camping, or just enjoying the outdoors.
+
+\n\n\tStart with the basics: pack out everything you bring in. This means trash, food wrappers, fruit peels, and even tissues. Don\'t burn or bury garbage—carry it back out. Use reusable containers whenever possible to reduce waste from the start.
+
+\n\n\tStay on established trails to protect fragile plant life. Even a few footsteps off-trail can damage ecosystems that take years to recover. Camp only in designated areas if you\'re staying overnight, and avoid trampling vegetation.
+
+\n\n\tRespect wildlife by observing from a distance. Never feed animals or leave food scraps behind—they disrupt natural behaviors and can even lead to dangerous situations. Keep your voice low, especially near water sources where animals gather.
+
+\n\n\tIf you need to go to the bathroom in nature, learn how to do it responsibly. For day hikes, use toilet facilities when available. If not, bring a waste bag or learn about proper cathole technique (digging a small hole away from water, trails, and campsites).
+
+\n\n\tLeave what you find. Don’t pick flowers, carve trees, or take souvenirs. Let others enjoy the same wild beauty you experienced.
+
+\n\n\tToday, reflect on your role as a guest in nature. The best hikers and campers aren’t the ones who take the most—they’re the ones who leave the least behind.
+</string>
+    <string name="fullDescription7">
+\tToday is your first real test: putting together everything you\'ve learned so far to plan a complete day hike. It doesn’t need to be long or difficult—what matters is that it’s intentional, safe, and well-prepared.
+
+\n\n\tStart by choosing a trail that fits your current fitness level. Look for routes that are under 10 kilometers (6 miles), have clear markers, and are popular enough to have good information online. Use your navigation app to study the trail beforehand and download the map for offline use. Check the elevation gain—500 meters might not seem like much, but it adds up fast.
+
+\n\n\tEstimate your hiking time realistically. A general rule is 30 minutes per kilometer on flat ground, plus extra for elevation, breaks, and photos. Always tell someone where you\'re going and when you expect to return.
+
+\n\n\tNext, gather your gear. Use your checklist: comfortable footwear, layered clothing, rain protection, a small first aid kit, water (at least 2 liters), snacks or a packed lunch, and your charged phone with an offline map. A whistle and flashlight are optional but useful.
+
+\n\n\tCheck the weather forecast and pack accordingly. If it\'s going to be hot, bring a hat and sunscreen. If it might rain, don’t forget your poncho or rain jacket.
+
+\n\n\tFinally, visualize your hike: from leaving the house to arriving at the trailhead, to every step along the way. Confidence comes from preparation.
+
+\n\n\tToday’s challenge is simple but powerful: plan your hike, pack your bag, and—if you\'re ready—take your first step into the wild.
+</string>
+    <string name="fullDescription8">
+\tToday is the day you’ve been preparing for — your first real hike. Don’t worry if it’s short, flat, or close to home. What matters is that you’re putting your preparation into action and building experience with every step.
+
+\n\n\tStart by reviewing your plan: check the weather, verify your gear, and make sure someone knows where you’re going. Double-check your water supply, your map, and your phone’s battery. Pack light, but bring what you need to feel confident.
+
+\n\n\tAs you begin your hike, take it slow. Notice how your backpack feels on your shoulders, how your boots respond to the trail, how your breathing adjusts to your pace. These details matter — they’ll shape how you pack and plan in the future.
+
+\n\n\tUse your offline map or GPS app to track your progress. Don’t be afraid to pause often. Look around. Listen. Smell the air. One of the great gifts of hiking is the way it brings you back to the present moment.
+
+\n\n\tStay hydrated and take care of yourself. Eat a small snack. Stretch if needed. If anything feels off — a sore spot, a hotspot in your boot — stop and fix it. A small correction now prevents big problems later.
+
+\n\n\tToday’s hike is not a test. It’s a beginning. This trail, no matter how simple, is your training ground — the first of many. Enjoy it. Trust your preparation. And remember: the more you walk in nature, the more you learn how to belong there.
+</string>
+    <string name="fullDescription9">
+\tSpending the night outdoors brings a new level of challenge — and reward. Unlike day hiking, camping overnight means you rely on your gear for shelter, warmth, food, and safety. This is where your setup really matters.
+
+\n\n\tShelter and sleep come first. You’ll need a tent that’s lightweight and weatherproof, plus a tarp to protect from moisture or wind. A sleeping bag matched to the nighttime temperature is critical — cold nights can ruin a trip. Underneath, a foam pad or inflatable sleeping mat (like an isoprene pad) will insulate you from the cold ground. Use a compression sack to save space in your backpack.
+
+\n\n\tLight and safety are also essential. Bring a headlamp for hands-free lighting and a small flashlight as backup. A whistle can help signal in an emergency, and a power bank will keep your phone available for GPS and communication. Don’t rely on battery alone — be mindful of usage.
+
+\n\n\tLet’s talk about the knife. A camping knife should be full-tang — meaning the blade and handle are made from one continuous piece of metal. This ensures strength and reliability. Look for a blade of at least 15 to 20 centimeters, with a solid, non-slip handle. Avoid folding knives for serious tasks. A good knife can cut cord, process wood, prepare food, and even help with first aid. Keep it clean, sharp, and respect its potential.
+
+\n\n\tOther tools include a pocket chainsaw — a compact chain with handles that you pull by hand to cut branches. It’s lightweight and efficient for collecting firewood. You can also bring a small axe or hatchet for splitting thicker wood. To start your campfire, carry a simple lighter and waterproof matches as a backup. Stick to what’s easy and reliable — this stage is about building confidence, not testing survival skills.
+
+\n\n\tFor cooking, bring a small stainless steel pot or mug and a compact frying pan. You don’t need a full kitchen — just the basics to boil water or cook a simple meal. Include utensils, a sponge, and a bit of biodegradable soap for cleanup.
+
+\n\n\tHygiene is often overlooked. Pack toilet paper, a small towel, toothbrush, toothpaste, and hand sanitizer. Keep everything sealed and organized.
+
+\n\n\tFinally, don’t forget the small but useful items: paracord or rope, spare batteries, dry bags or ziplocks, and your packed gear list. Being organized will save you stress when night falls.
+
+\n\n\tToday, your task is to gather your overnight gear, pack your bag, and feel its weight. Take a short walk with it. You’re not just preparing for a night in nature — you’re training for self-reliance.
+</string>
+    <string name="fullDescription10">
+\tKnowing how to pitch your tent properly is one of the most important skills in camping. It’s not just about having shelter — it’s about staying dry, warm, and safe when the weather turns or night falls quickly.
+
+\n\n\tStart by setting up your tent at home, in your yard, or in a park on a calm day. Unpack everything and lay it out neatly: the tent body, poles, rainfly, stakes, and guy lines. Take a moment to identify each part and how they connect. Most modern tents follow a similar structure, so once you learn one, you can set up most of them.
+
+\n\n\tFollow a step-by-step guide or video demonstration if needed. Take your time the first few times, and pay attention to how the poles insert, how the fly attaches, and how tension is adjusted.
+
+\n\n\tOnce you’ve mastered the basics, practice doing it faster — as if it’s about to rain or you’ve just arrived at camp after sunset. Try pitching on slightly uneven ground or in light wind to simulate more realistic conditions.
+
+\n\n\tA properly set tent stays firm in wind, keeps water out, and feels comfortable inside. Don’t forget to stake the corners and use guy lines — they’re not just extra parts, they make the difference between a good night’s sleep and a wet, noisy mess.
+
+\n\n\tToday’s goal is simple: learn how your tent works and practice setting it up confidently. It might feel awkward at first, but with just a few tries, it’ll become second nature.
+</string>
+    <string name="fullDescription11">
+\tA heavy or disorganized backpack can turn a short hike into a painful experience. Efficient packing isn’t about making everything fit — it’s about carrying your gear in a way that saves energy, keeps things accessible, and protects what matters most.
+
+\n\n\tStart by laying out all your gear. Group items by category: sleep system, shelter, cooking, hygiene, clothing, tools, and food. Now think about two things: weight distribution and access.
+
+\n\n\tHeavier items like your tent or water should go close to your back and centered, to maintain balance. Softer items like your sleeping bag or clothes can be packed lower or around hard edges to pad them and fill empty spaces. Items you’ll need during the hike — like snacks, rain gear, or your map — should be near the top or in outside pockets.
+
+\n\n\tCompress bulky items like sleeping bags or tarps using stuff sacks or compression straps. Roll clothes tightly or use packing cubes to keep them compact and organized.
+
+\n\n\tUse waterproof bags or liners to protect sensitive items like your sleeping bag, electronics, or spare clothes. Wet gear can ruin your night’s rest and damage other items.
+
+\n\n\tOnce everything is packed, lift your backpack and adjust the straps. It should feel balanced, snug against your back, and not wobble when you walk. If something digs in or shifts around, unpack and try again.
+
+\n\n\tToday’s task is to test-pack your full gear. Walk around the house or outside for a few minutes. A good pack doesn’t just carry your gear — it carries your confidence.
+</string>
+    <string name="fullDescription12">
+\tBuilding a campfire isn\'t just about flame — it\'s about fuel. And not all wood burns the same. Knowing how to choose the right firewood will make your fire easier to start, longer-lasting, and more reliable in bad weather.
+
+\n\n\tStart by understanding the difference between dry and wet wood. Dry wood feels light, snaps when broken, and sounds hollow when you knock two pieces together. Wet or green wood feels heavy, may look darker, and often sizzles or smokes instead of burning. Avoid wood that\'s soft, spongy, or covered in moss or fungus.
+
+\n\n\tThere are three main types of wood to collect for a good fire:
+
+\n\t- Tinder: Very small, dry materials that catch fire quickly. Think dry grass, pine needles, birch bark, or cotton soaked in petroleum jelly (which you can bring with you).
+\n\t- Kindling: Sticks the size of pencils or fingers. These burn hot and help ignite the larger logs.
+\n\t- Fuel wood: Larger branches or logs that burn slowly and provide heat over time.
+
+\n\n\tWhen it comes to species, hardwoods like oak, beech, hornbeam, and acacia burn long and hot, making them ideal for sustained heat. Softwoods like fir (brad), pine, and spruce ignite quickly but burn faster and produce more sparks and resin. If you’re starting a fire, softwood can help get it going — but for cooking or warmth, hardwood is more efficient.
+
+\n\n\tDon’t break branches from live trees — they usually don’t burn well and it harms the forest. Instead, look for dead branches on the ground or dry wood caught in low branches.
+
+\n\n\tStack your firewood before starting the fire so you’re not scrambling once the flames are up. And always collect more than you think you\'ll need — fires burn through wood faster than expected.
+
+\n\n\tToday’s goal is to go outside and look for natural firewood. Practice identifying dry vs. wet, and separating it by size. The more you understand your fuel, the better your fire will be.
+</string>
+    <string name="fullDescription13">
+\tFire is one of the most useful tools in the outdoors — but also one of the most dangerous. Knowing how to build and control a fire is about more than warmth or cooking; it\'s about safety, responsibility, and respect for the land.
+
+\n\n\tThere are several ways to structure a campfire, each with its own advantages:
+
+\n\t- Teepee fire: Small kindling is stacked in a cone shape, allowing air to flow and flames to rise. Great for quick, hot fires and easy starts.
+\n\t- Log cabin fire: Larger sticks are stacked in a square around the teepee structure, creating a stable, long-burning fire ideal for cooking or warmth.
+\n\t- Dakota fire hole: A hidden fire built in two small holes in the ground, connected by a tunnel for airflow. It burns efficiently and is nearly smokeless — useful for windy or dry conditions.
+
+\n\n\tBefore you build, choose your fire site carefully. Use an existing fire ring if one is available. If not, clear the area down to bare soil, at least two meters away from tents, trees, and dry grass. Never build fires under low-hanging branches.
+
+\n\n\tKeep water or dirt nearby to put out the fire quickly if needed. Never leave a fire unattended — even for a moment. When you\'re done, stir the coals and pour water until the ashes are cold to the touch. If it\'s still warm, it\'s still dangerous.
+
+\n\n\tToday, your task is to learn about these fire types and practice building a small fire structure — even without lighting it. Focus on how the wood is arranged, where the air flows, and what makes it stable. Fire is power — use it wisely.
+</string>
+    <string name="fullDescription14">
+\tKnowing how to build a fire is important — but knowing where it’s allowed is essential. In many natural areas, especially during dry seasons or in protected zones, open fires are restricted or completely banned.
+
+\n\n\tBefore your trip, take time to research the fire regulations for the area where you plan to camp. This information is usually available on national park websites, ranger stations, or local forest management offices. Some trails or parks will clearly mark areas where fires are allowed — look for designated fire pits or metal rings provided by the site.
+
+\n\n\tIf there are no official fire spots, and no clear permission to make a fire, don’t risk it. Lighting an unauthorized fire, even a small one, can lead to fines, damage to the environment, or even wildfires.
+
+\n\n\tA great alternative is to carry a small portable stove. These are lightweight, easy to use, and safe in areas where open flames aren’t allowed. You can cook your food, boil water, and stay warm without breaking any rules. In fact, many experienced campers prefer stoves for their speed and efficiency.
+
+\n\n\tBeing a responsible camper means respecting both nature and the laws that protect it. It’s not just about avoiding trouble — it’s about leaving the land as you found it, or better.
+
+\n\n\tToday’s task is to check fire regulations for a camping area you’d like to visit. If fires are restricted, look into portable cooking solutions and make a plan that follows the rules. The best campfire isn’t always the one with flames — it’s the one made with care and respect.
+</string>
+    <string name="fullDescription15">
+\tCooking over a fire might seem like something you only do deep in the woods — but it’s actually something you can practice today, close to home. The more familiar you are with your cooking gear, the smoother things will go when you\'re camping for real.
+
+\n\n\tIf you have a backyard, fire pit, or outdoor grill, use it. If not, a public picnic area or campsite with grills can work just as well. You don’t need to build a full campfire yet — using charcoal or dry wood that’s already been cut is perfectly fine for this exercise.
+
+\n\n\tThe goal is to try preparing a simple meal with the tools you plan to take camping: your camping stove, stainless steel mug, small pot, frying pan, spork, or knife. See how well your gear handles the heat, how long it takes to boil water or cook food, and whether you’re missing anything important — like a lid, tongs, or heat-resistant gloves.
+
+\n\n\tDon’t worry about perfection. This is the time to experiment: how to hold your pan steady, how to manage heat, how to clean up after. You’ll learn more in one practice session than by watching hours of videos.
+
+\n\n\tToday’s task is to cook one basic meal outdoors using your camp tools. It could be as simple as scrambled eggs, a soup packet, or boiling water for tea. The real goal is confidence. The forest will come soon — but today, it starts with fire, food, and focus.
+</string>
+    <string name="fullDescription16">
+\tAfter a long hike, it can be tempting to set up your tent anywhere and call it a night. But choosing the right campsite is one of the most important parts of outdoor safety and comfort. Where you sleep affects how well you rest, how dry you stay, and how safe you are overnight.
+
+\n\n\tStart with the ground. Look for a flat, even surface that’s not in a ditch or depression. Low ground can collect rainwater and leave you soaked. Avoid slopes — even a gentle incline can cause you to slide around all night or wake up crumpled against a corner of your tent.
+
+\n\n\tCheck what’s above and around you. Never camp under dead branches or leaning trees that could fall in wind. Also avoid narrow canyons or steep valleys, which can funnel wind or flash floods. Ideally, your camp should be slightly elevated, with some natural wind protection like bushes or rocks.
+
+\n\n\tScan the ground for signs of animals: trampled grass, droppings, or well-worn trails. Avoid setting up camp on or near wildlife paths — both for your safety and theirs.
+
+\n\n\tThink ahead: where will you cook, where will you go to the bathroom, where will you store food? A good campsite balances privacy, safety, and practicality. If possible, arrive early enough to explore and choose your spot while it’s still daylight.
+
+\n\n\tToday’s goal is to walk through a natural area and look for potential campsites. You don’t need to set up camp — just observe the land, and train your eye to spot good (and bad) locations. In camping, preparation always starts with awareness.
+</string>
+    <string name="fullDescription17">
+\tWhen you\'re out in nature, your best safety tool is preparation — especially when it comes to emergencies. Mobile signal can be weak or nonexistent, so knowing how to get help without relying on your phone is a vital part of outdoor safety.
+
+\n\n\tStart by saving key emergency numbers in your phone before your trip: local mountain rescue, park rangers, forest services, or emergency services like 112. If possible, write them down on paper and keep them in a waterproof bag inside your backpack.
+
+\n\n\tLearn the basic SOS signals used internationally:
+\n\t- With light: three short flashes, three long flashes, then three short again — repeated every minute. This pattern can be made with a flashlight, phone light, or even a mirror reflecting sunlight.
+\n\t- With sound: three short whistle blasts repeated regularly. Whistles are louder and carry farther than shouting, and they don’t strain your voice.
+
+\n\n\tYou can also use movement: laying out brightly colored gear, drawing large arrows in the dirt or snow, or waving reflective material to attract attention from the air.
+
+\n\n\tAlways tell someone your route and expected return time before heading out. This single habit can make rescue efforts faster and more effective.
+
+\n\n\tToday’s task is to create a small emergency contact card with names, numbers, and your basic medical info. Add it to your backpack. If you have a whistle, flashlight, or mirror, try practicing an SOS signal at home. In the wild, being prepared to call for help is just as important as avoiding danger in the first place.
+</string>
+    <string name="fullDescription18">
+\tYou’ve learned the theory — now it’s time to get your hands dirty. Today’s task is to practice cutting and preparing real firewood using your own camping tools. This is a safe, controlled rehearsal before your first full camping night.
+
+\n\n\tStart by selecting a safe outdoor space: a backyard, a forest clearing with permission, or even a campsite where firewood practice is allowed. Use wood that’s already been cut or fallen — don’t cut down living trees.
+
+\n\n\tBegin with your saw or pocket chainsaw. Practice cutting a small branch or log into pieces that could serve as fuel wood. Notice how much effort it takes, and how different types of wood respond — softwood cuts quickly but may splinter, while hardwoods are heavier and take longer.
+
+\n\n\tNext, use your knife or hatchet to split some of the wood into kindling. Focus on control, not speed. Work on a solid surface, keep your fingers clear, and always cut away from your body.
+
+\n\n\tTry to build a fire structure — like a teepee or log cabin — using your own processed wood. You don’t have to light it unless it’s safe and legal to do so. The goal is to understand how each piece fits into the fire-making process, from raw material to heat source.
+
+\n\n\tToday is about muscle memory, confidence, and preparation. In camping, theory helps — but practice makes you capable.
+</string>
+    <string name="fullDescription19">
+\n\n\tSimplicity is power — and nowhere is that more true than in knots. With just a short length of rope and a few basic knots, you can secure a shelter, hang gear, fix a broken strap, or lift food into a tree. Today you’ll learn three knots that every camper should know.
+
+\n\n\tFirst, let’s talk about rope. The best type for camping is lightweight but strong. Paracord is a great all-purpose option: durable, flexible, and easy to pack. You don’t need a huge coil — just a few meters in your bag can go a long way. Avoid stretchy or very thick ropes, which are harder to tie and manage in the field.
+
+\n\n\tNow, the three knots:
+
+\n\t- **Bowline**: Creates a fixed loop that won’t slip. Ideal for tying rope around a tree or making a secure anchor point.
+\n\t- **Taut-line hitch**: A knot that adjusts tension and holds under load — perfect for tightening a tarp or guyline.
+\n\t- **Square knot**: A simple knot for joining two ropes of the same size. Use it to extend cordage or tie gear together.
+
+\n\n\tEach of these knots can be learned in minutes and mastered with a bit of practice. You can use any spare cord to try them at home — tie them around a chair leg, table, or post.
+
+\n\n\tToday’s task is to learn and practice these three knots. Watch a short tutorial, follow along step-by-step, and repeat until your fingers remember the motion. In the outdoors, a well-tied knot can save time, gear, and even lives.
+</string>
+    <string name="fullDescription20">
+\tToday is the day you’ve been preparing for. Your first overnight camping trip — planned, packed, and executed by you. This isn’t just a hike or a fire in the backyard. It’s the full experience: carrying your gear, setting up camp, cooking your own meal, and sleeping under the stars.
+
+\n\n\tChoose a simple route, preferably one you’ve already walked during a day hike. Keep the distance short and the terrain manageable. The goal is not to push your limits — it’s to practice real camping in a controlled, successful way.
+
+\n\n\tBefore you leave, double-check your gear: shelter, sleeping bag, food, water, light, clothes, hygiene items, and emergency tools. Pack wisely, distribute weight evenly, and let someone know your plan and return time.
+
+\n\n\tOnce you reach your campsite, follow everything you’ve learned: choose a safe and flat spot, set up your tent confidently, gather and prepare firewood, cook a meal, and relax. This is your time to observe how it all comes together — how your planning translates into comfort and safety outdoors.
+
+\n\n\tAt night, listen to the sounds of nature, reflect on what you’ve accomplished, and allow yourself to be proud. In the morning, break camp, leave no trace, and hike back knowing you’ve taken your first big step into true outdoor living.
+
+\n\n\tToday’s task is simple — but powerful: go camping. One night, done right, will teach you more than any lesson so far.
+</string>
+    <string name="fullDescription21">
+\tYou did it. You packed your gear, hiked to camp, spent the night outdoors, and returned safely. That alone is a huge achievement — one that many people never experience. Now it’s time to slow down, take a breath, and reflect on how it went.
+
+\n\n\tStart by asking yourself a few simple questions:
+\n\tWhat worked well? What was more difficult than expected? Did you forget anything? Was there gear you didn’t use, or something you wished you had?
+
+\n\n\tHow did you feel at different moments — setting up camp, starting a fire, cooking, sleeping, waking up? Were there moments of stress, joy, calm, discomfort? These details are valuable. They help you understand your own camping style and needs.
+
+\n\n\tGo through your backpack and take notes: What gear was essential? What could be lighter or smaller? What didn’t get touched? This isn’t just cleanup — it’s part of building your future camping system.
+
+\n\n\tIf you kept a journal or took photos, now’s a great time to review them. Write down anything that stands out — a mistake you want to avoid, a smart trick you improvised, or something that surprised you.
+
+\n\n\tToday’s task is not physical — it’s reflective. Growth comes not just from doing, but from understanding what you’ve done. The next trip will be better because of what you’ve learned today.
+</string>
+
+    <string name="fullDescription22">
+\tCamping teaches you comfort. Survival teaches you independence. Today, you’ll start building a small survival kit — a compact collection of tools that can help you stay safe, find your way, and handle unexpected situations outdoors.
+
+\n\n\tThe core of your kit starts with **water**. Include a small water filter (like a straw or pump filter), water purification tablets, and a collapsible dirty water pouch for collecting water from natural sources. Even if you don’t use these tools now, knowing you have them brings peace of mind.
+
+\n\n\tNext, focus on **fire**. Add a ferrocerium rod (ferro rod) or fire starter — more reliable than matches in wind and rain. You’ve used lighters so far, but this is a tool that works even when wet. Pack it with dry tinder or cotton balls soaked in petroleum jelly.
+
+\n\n\tFor **navigation**, include a compass and a small printed map of your area or route. Don’t rely only on your phone — batteries die, signals fail, and paper maps still work when everything else doesn’t.
+
+\n\n\tOther smart additions: a whistle, small mirror for signaling, paracord, duct tape, and a space blanket. All of these are lightweight and versatile.
+
+\n\n\tLay your kit out on the ground and take a good look at it. What problems can it solve? What situations does it prepare you for? Then pack it up, weigh it, and notice how little space it takes — but how much security it gives.
+
+\n\n\tToday’s task is to build your own survival kit. Even if you don’t use it yet, carrying it means you’ve stepped into a new level of self-reliance.
+</string>
+    <string name="fullDescription23">
+\tNature can provide food — but only if you know what’s safe. Today is about training your awareness, not your appetite. You’ll start learning how to recognize common edible plants, fruits, and even insects found in the wild. But the goal is clear: don’t eat anything yet. Just observe, identify, and learn.
+
+\n\n\tBegin with a local guidebook or trusted online resource that covers edible species in your region. Focus on a few easy-to-recognize plants, like dandelion, nettle, wild garlic, or blackberries. These are common in many places and relatively easy to identify without confusion.
+
+\n\n\tPay close attention to key features: the shape of the leaves, the smell when crushed, the way the plant grows, and where it’s found. Take pictures, sketch them, or write down notes. You’re building a mental field guide — one that could help you in a real emergency or just make you more connected to your environment.
+
+\n\n\tInsects are another survival food source, but identification matters even more. In many cultures, crickets and larvae are safe to eat, while others may be toxic. Today, just notice where they hide, when they’re active, and how they move — don’t disturb them yet.
+
+\n\n\tThe most important rule: **if you’re not 100% sure, don’t eat it**. Many wild plants and mushrooms look similar — but some are dangerous or even deadly. Safety always comes before curiosity.
+
+\n\n\tToday’s task is to go outside and try to identify 3 wild edible species — with photos or notes — using a verified source. Tomorrow, you’ll keep building that awareness. The forest has food — but only for those who learn to listen before they taste.
+</string>
+    <string name="fullDescription24">
+\tYour phone might be smart — but your brain is smarter. Today, you’ll practice full navigation using only a compass and a paper map, just like the explorers and mountaineers who came before GPS.
+
+\n\n\tStart by reviewing the parts of a compass: baseplate, direction-of-travel arrow, rotating bezel (or dial), and magnetic needle. Then, match your map’s orientation to true north by placing the map flat and rotating it with your compass until north on the map aligns with magnetic north.
+
+\n\n\tNow, choose a visible point on the map and draw a line from your current location to that point. Use your compass to read the bearing (azimuth) — the angle in degrees between north and your destination. Turn your body until the needle lines up with north on the bezel, and your compass now points where you need to go.
+
+\n\n\tTo estimate distance, use the map scale. A piece of string or your finger can help measure the path. Combine this with your average walking speed (ex: ~5km/h on flat terrain) to estimate how long it should take to reach your destination.
+
+\n\n\tAlong the way, practice **“orienteering”**: look up and compare real landmarks to the map. Is that hill the one shown here? Does the trail curve as expected? Real-time corrections are part of real navigation.
+
+\n\n\tToday’s goal is to plan a short route on a printed map, use your compass to draw bearings, and try navigating a segment of it in the field. No signal, no GPS, no app — just you, your tools, and your growing skills.
+</string>
+    <string name="fullDescription25">
+\tCamping food doesn’t have to be bland or boring — it just needs to be smart. With a bit of planning and creativity, you can make warm, tasty meals that fuel your body and lift your mood, even with minimal gear and ingredients.
+
+\n\n\tThe key is to start with **versatile staples** like instant rice, couscous, noodles, oats, or soup powder. These cook quickly, require little fuel, and act as a base for all kinds of flavor combinations.
+
+\n\n\tNext, bring **lightweight proteins**: canned tuna, lentils, dehydrated beans, smoked sausage, or vacuum-sealed tofu. Combine them with your base to create a full meal. Add salt, spices, or small oil packets — they weigh almost nothing but make a big difference.
+
+\n\n\tIf you’re confident in your plant ID skills, you can add **foraged extras**: wild greens like dandelion or nettle, mushrooms (only if 100% safe), or berries. Always double-check what you pick, and never eat anything unless you’re completely certain it’s edible.
+
+\n\n\tWarm drinks matter too — tea made from pine needles, wild mint, or dried herbs is easy to make and comforting after sunset. Just pour hot water into your metal cup and steep for a few minutes.
+
+\n\n\tToday’s task is to design and prepare a simple camp recipe. Cook it at home or on a portable stove outdoors. Try a soup with greens, rice with canned meat, or your own wild tea blend. A well-fed camper is a happy, strong camper — and you’re now one step closer to mastering outdoor living.
+</string>
+    <string name="fullDescription26">
+\tMaking fire with a lighter is easy — but nature isn’t always easy. Wind, rain, and wet wood can turn a simple task into a challenge. That’s why today you’ll learn how to start a fire using a ferro rod or flint — and how to succeed even when the weather works against you.
+
+\n\n\tStart with the right gear: a ferrocerium rod and a good striker (or back of a carbon-steel knife). This tool produces sparks at extremely high temperatures — much hotter than a lighter flame — and works even when wet.
+
+\n\n\tNext, prepare your tinder. In wet conditions, dry cotton balls with petroleum jelly, birch bark, or fatwood shavings are excellent. Keep them in a waterproof container in your pack. If you’re already in the field, look for dry material inside dead logs or carry waxed cardboard strips.
+
+\n\n\tBuild your fire structure carefully — a teepee or log cabin is ideal for wet starts. Create space for airflow and keep your dry tinder at the center. When striking the ferro rod, focus on control: press hard, scrape fast, and direct the sparks into the driest part of your tinder.
+
+\n\n\tOnce it lights, feed it with dry pencil-sized sticks, then finger-thick fuel, and gradually larger logs. Shield the flame from wind and rain with your body, a tarp, or rocks. The key isn’t brute force — it’s patience, preparation, and understanding the behavior of fire.
+
+\n\n\tToday’s task is to practice starting a fire using a ferro rod. Try it in damp grass, light wind, or with slightly wet wood. If conditions are safe, cook something warm — a tea or small meal. Fire is survival, warmth, and peace — all in one glowing flame.
+</string>
+    <string name="fullDescription27">
+\tWater in nature can look crystal clear — but still be full of bacteria, parasites, or chemicals. Drinking untreated water is one of the fastest ways to get sick in the outdoors. That’s why today is all about learning to filter, purify, and organize your water safely.
+
+\n\n\tStart with a basic rule: if the water didn’t come from a sealed bottle or your tap, it needs treatment.
+
+\n\n\tFirst, **filter**. Use a portable water filter (like a squeeze filter or pump) to remove dirt, debris, and most pathogens. If you don’t have one, pour the water through cloth, coffee filters, or a bandana to remove visible particles — but remember, filtering alone doesn’t kill microorganisms.
+
+\n\n\tNext, **purify**. Use water purification tablets or drops, following the instructions carefully. Boiling is also an option — bring water to a rolling boil for at least one full minute (or 3+ minutes at higher altitudes). This kills bacteria, viruses, and parasites like Giardia.
+
+\n\n\tOrganize your water system into two zones:
+\n\t- “Dirty” gear: your collection bag, filter input, or scoop
+\n\t- “Clean” gear: drinking bottles, filter output, or sterilized containers
+\n\tKeep these separate at all times to avoid cross-contamination — even a few drops can re-contaminate your clean water.
+
+\n\n\tToday’s task is to simulate your full water process: collect, filter, purify, store, and drink (if safe). If you don’t have a filter yet, practice the routine using tap water. Get used to handling gear without mixing dirty and clean — in the wild, this skill is as important as fire.
+
+\n\n\tWater is life — and when you can find it, clean it, and carry it, you’re never lost.
+</string>
+    <string name="fullDescription28">
+\tToday you put your orientation skills to the test — no GPS, no apps, no shortcuts. Just you, your map, your compass, and the landscape. It’s your first real-world navigation challenge.
+
+\n\n\tStart by choosing a familiar outdoor area with a mix of trails, hills, or landmarks. Keep it safe and accessible, but with enough variation to require thinking. Plot a short route on a printed map — 1 to 3 kilometers is enough. Mark your start and end points, and choose at least two checkpoints in between.
+
+\n\n\tUse your compass to take bearings between each point. Write them down, then orient your map and follow your planned direction as closely as possible. Don’t worry about speed — this is about precision, awareness, and confidence.
+
+\n\n\tAs you hike, check off each feature you pass: a bridge, a bend in the trail, a clearing. Use your map to confirm your position and make adjustments if needed. If you get slightly off track, that’s good — it means you’re learning to recover and reorient.
+
+\n\n\tBring a notebook or record voice notes as you go. What confused you? What landmarks helped? Did your bearings match the terrain? This feedback is gold for future adventures.
+
+\n\n\tToday’s task is to complete a short hike using only traditional navigation. If you finish exactly as planned — great. If not, even better. The forest doesn’t need perfect travelers — just ones who learn and adapt.
+</string>
+    <string name="fullDescription29">
+\tBeing tough doesn’t mean ignoring hygiene. In fact, staying clean, dry, and comfortable in the wild is one of the most important parts of long-term survival — and one of the least talked about.
+
+\n\n\tWhen water is limited, you need to be smart. With just 300ml (about one cup), you can do a full basic wash: hands, face, armpits, and feet. Use a small cloth or bandana, biodegradable soap, and wash one part at a time. Focus on sweat zones to prevent rashes, odor, and bacteria buildup.
+
+\n\n\tPack lightweight hygiene items: toothbrush, toothpaste, a small towel, nail clippers, and a plastic bag for waste. Unscented wet wipes and hand sanitizer are great backups. For longer trips, consider a small trowel and learn proper waste disposal (away from water sources, buried at least 15cm).
+
+\n\n\tClothing matters just as much. Learn to layer:
+\n\t- **Base layer** (synthetic or wool): keeps moisture away from skin
+\n\t- **Mid layer** (fleece or light down): traps body heat
+\n\t- **Outer layer** (windproof/rainproof): shields from elements
+
+\n\n\tAvoid cotton — it absorbs water and dries slowly, leaving you cold. Instead, choose quick-drying, breathable fabrics. Change your socks daily if possible, and keep one dry outfit for sleeping only.
+
+\n\n\tToday’s task is to simulate a minimalist hygiene routine at home using under 300ml of water, and to review your clothing system. Can you stay warm, dry, and clean — even if the rain pours and the river’s far away?
+
+\n\n\tComfort isn’t a luxury in the wild — it’s survival in disguise.
+</string>
+    <string name="fullDescription30">
+\tWater shapes everything — landscapes, trails, and your survival. Today you’ll learn to recognize signs of nearby water, even when it’s not visible, and how to plan routes that keep you close to reliable sources.
+
+\n\n\tFirst, look at the terrain. Water always flows downhill, so valleys, gullies, and terrain dips are likely candidates. On a topographic map, contour lines that dip inward or form a "V" shape often indicate water flow. Look for blue lines or symbols showing streams, springs, or lakes.
+
+\n\n\tIn the field, vegetation is a powerful clue. Areas with dense, green plants — especially in otherwise dry environments — may indicate underground moisture or a nearby stream. Willow, alder, and cattails often grow near water sources. Animal tracks or trails can also lead to water, especially if they converge from different directions.
+
+\n\n\tRock formations can help too: smooth, exposed rocks or channels carved into stone may point to seasonal streams or rain runoff paths.
+
+\n\n\tWhen planning a trip, always identify potential water points on your map. Mark them clearly and calculate your daily needs — drinking, cooking, and hygiene. Avoid relying on a single source. If a stream is dry, you need a backup.
+
+\n\n\tToday’s task is to study a local map and mark at least three possible water sources. Then, if possible, go explore one on foot — with the goal of confirming what you saw on the map. In camping, water isn’t just a stop along the way — it’s the reason for the route.
+
+\n\n\tLearning to find it is one of your m\tost important outdoor skills.
+</string>
+
+
+    <string name="completionMessage">
+\tCongratulations — you’ve completed your 30-day journey into the world of camping and self-reliance. That alone is a huge achievement. You’ve learned to pack smart, navigate, find water, stay warm, build fire, and reflect deeply. You’ve not just prepared — you’ve transformed.
+
+\n\tBut here’s the truth: this is only the beginning.
+
+\n\tNature doesn’t follow lessons. Every trail, every night under the stars, every unexpected rain is a new teacher. What you’ve learned so far are the tools — now you get to use them to write your own story outdoors.
+
+\n\tKeep growing. Keep practicing. Get uncomfortable sometimes — that’s where the real learning hides. And remember: being prepared doesn’t mean having all the answers. It means knowing how to adapt when you don’t.
+
+\n\tYou are ready — not for perfection, but for progress.
+
+\n\tSee you on the trail.
+</string>
+
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>

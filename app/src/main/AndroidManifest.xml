@@ -25,7 +25,6 @@
         <activity
             android:name=".IntroActivity"
             android:exported="true"
-            android:label="@string/app_name"
             android:theme="@style/Theme.AppTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

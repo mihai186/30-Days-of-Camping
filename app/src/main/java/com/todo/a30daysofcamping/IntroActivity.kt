@@ -1,14 +1,10 @@
 package com.todo.a30daysofcamping
 
-import android.R.attr.maxHeight
-import android.R.attr.onClick
-import android.R.attr.text
-import android.R.id.primary
+
 import android.annotation.SuppressLint
 import android.app.Activity
 import android.content.Intent
 import android.os.Bundle
-import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.BorderStroke
@@ -21,20 +17,16 @@ import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.aspectRatio
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
-import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.shape.RoundedCornerShape
-import androidx.compose.material3.Button
 import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.ModalBottomSheet
 import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.Scaffold
+import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableFloatStateOf
-import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
@@ -49,7 +41,6 @@ import androidx.compose.ui.layout.onGloballyPositioned
 import androidx.compose.ui.layout.positionInRoot
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalDensity
-import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.TextStyle
@@ -59,7 +50,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.todo.a30daysofcamping.ui.theme.AppTheme
-import java.nio.file.WatchEvent
 
 class IntroActivity : BaseFullscreenActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -67,7 +57,7 @@ class IntroActivity : BaseFullscreenActivity() {
         enableEdgeToEdge()
         setContent {
             AppTheme {
-                Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
+                Surface(modifier = Modifier.fillMaxSize()) {
                     IntroPage()
                 }
             }
@@ -77,7 +67,7 @@ class IntroActivity : BaseFullscreenActivity() {
 
 @SuppressLint("UnusedBoxWithConstraintsScope")
 @Composable
-fun IntroPage(modifier: Modifier = Modifier) {
+fun IntroPage() {
     val context = LocalContext.current
     val density = LocalDensity.current
 
@@ -166,7 +156,7 @@ fun IntroPage(modifier: Modifier = Modifier) {
 @Composable
 fun IntroPreview(){
     AppTheme {
-        Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
+        Surface(modifier = Modifier.fillMaxSize()) {
             IntroPage()
         }
     }

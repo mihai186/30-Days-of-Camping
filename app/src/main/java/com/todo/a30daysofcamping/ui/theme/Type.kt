@@ -2,9 +2,7 @@ package com.todo.a30daysofcamping.ui.theme
 
 import com.todo.a30daysofcamping.R
 import androidx.compose.material3.Typography
-import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontFamily
-import androidx.compose.ui.unit.sp
 
 import androidx.compose.ui.text.googlefonts.GoogleFont
 import androidx.compose.ui.text.googlefonts.Font
